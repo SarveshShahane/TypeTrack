@@ -6,7 +6,7 @@ A fast and simple typing speed trainer built with React. Test your typing skills
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/TypeTrack.git
+git clone https://github.com/SarveshShahane/TypeTrack.git
 cd TypeTrack
 
 # Install dependencies
